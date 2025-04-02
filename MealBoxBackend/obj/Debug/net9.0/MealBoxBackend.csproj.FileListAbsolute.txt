@@ -1,0 +1,8 @@
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.csproj.AssemblyReference.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.AssemblyInfoInputs.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.AssemblyInfo.cs
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.csproj.CoreCompileInputs.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.sourcelink.json
