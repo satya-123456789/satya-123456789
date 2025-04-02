@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MealBoxBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bcb6e94cfa5f8af743d77c16cbcbc468a2b31b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a32bbf2178703aa83c4b176d2db6f28b255fb2f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MealBoxBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MealBoxBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
