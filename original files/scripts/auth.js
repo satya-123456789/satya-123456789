@@ -37,7 +37,9 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(user => {
           // Store user data (in real app, use JWT)
           localStorage.setItem('currentUser', JSON.stringify(user));
+          window.alert("you are successfully login!!!");
           window.location.href = 'index.html';
+    
         })
         .catch(error => {
           showError(error.message, loginForm);

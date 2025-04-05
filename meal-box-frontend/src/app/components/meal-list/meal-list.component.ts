@@ -1,31 +1,11 @@
-import { Component, OnInit } from '@angular/core';
-import { MealService } from '../../services/meal.service';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-meal-list',
+  imports: [],
   templateUrl: './meal-list.component.html',
-  styleUrls: ['./meal-list.component.css']
+  styleUrl: './meal-list.component.css'
 })
-export class MealListComponent implements OnInit {
-  meals: any[] = [];  // Array to hold meal data
+export class MealListComponent {
 
-  constructor(private mealService: MealService) {}
-
-  ngOnInit() {
-    this.loadMeals();
-  }
-
-  loadMeals() {
-    this.mealService.getMeals().subscribe(
-      (data) => this.meals = data,
-      (error) => console.error('Error loading meals', error)
-    );
-  }
-
-  onBookMeal(mealId: number) {
-    this.mealService.bookMeal(mealId).subscribe(
-      () => alert('Meal booked successfully!'),
-      (error) => console.error('Booking failed', error)
-    );
-  }
 }
